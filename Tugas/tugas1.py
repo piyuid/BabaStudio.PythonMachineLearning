@@ -1,7 +1,6 @@
+#Tugas 1 (Prakerja Baba Studio)
 #Nama : Leo Puji Christyanto
 #email : leopuji17@gmail.com
-
-#Tugas 1 (Prakerja Baba Studio)
 
 nama = "leo"
 nilai = 80
